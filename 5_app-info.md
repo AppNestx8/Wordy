@@ -23,6 +23,7 @@
 ### 外部サービス
 
 - Google AdMob
+- DeepL API
 
 ---
 
